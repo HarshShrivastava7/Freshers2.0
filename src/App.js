@@ -9,7 +9,7 @@ import Events from "./components/Events";
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Navbar/>
       <Routes>
         <Route
           path="/"
