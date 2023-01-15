@@ -1,0 +1,14 @@
+.MainIntro {
+  display: block;
+}
+ .showOnMobile {
+    display: none;
+  }
+@media only screen and (max-width: 64em) {
+    .MainIntro {
+  display: none;
+}
+ .showOnMobile {
+    display: block;
+  }
+}

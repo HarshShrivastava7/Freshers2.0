@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Daniel';
+  src: url('/fonts/daniel.ttf') format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:900&display=swap');
+.btn{
+  color: #e8e0cd;
+}
+.btn:hover{
+  background: #e8e0cd;
+  color: #4c4944;
+}
+.btn-outline-light{
+  border-color: #e8e0cd;
+}
