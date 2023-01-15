@@ -10,8 +10,16 @@ function TeamCard(props) {
           <div class="border">
             <h2 className="names">AYUSH</h2>
             <div class="icons">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <a target="_blank"
+                class="fa fa-instagram"
+                aria-hidden="true"
+                href="https://www.instagram.com/ayushparihar007/"
+              ></a>
+              <a target="_blank"
+                href="https://www.linkedin.com/in/ayush-parihar-91307b248"
+                class="fa fa-linkedin"
+                aria-hidden="true"
+              ></a>
             </div>
           </div>
         </div>
@@ -19,8 +27,16 @@ function TeamCard(props) {
           <div class="border">
             <h2 className="names">MAYANK</h2>
             <div class="icons">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <a target="_blank"
+                class="fa fa-instagram"
+                aria-hidden="true"
+                href="https://www.instagram.com/mayank_rampuriya/"
+              ></a>
+              <a target="_blank"
+                href="https://www.linkedin.com/in/mayankrampuriya"
+                class="fa fa-linkedin"
+                aria-hidden="true"
+              ></a>
             </div>
           </div>
         </div>
@@ -28,8 +44,16 @@ function TeamCard(props) {
           <div class="border">
             <h2 className="names">HARSH</h2>
             <div class="icons">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <a target="_blank"
+                class="fa fa-instagram"
+                aria-hidden="true"
+                href="https://www.instagram.com/harsh.7781/"
+              ></a>
+              <a target="_blank"
+                href="https://www.linkedin.com/in/harsh-shrivastava-7b5122228"
+                class="fa fa-linkedin"
+                aria-hidden="true"
+              ></a>
             </div>
           </div>
         </div>
@@ -39,8 +63,16 @@ function TeamCard(props) {
           <div class="border">
             <h2 className="names">SANIDHYA</h2>
             <div class="icons">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <a target="_blank"
+                class="fa fa-instagram"
+                aria-hidden="true"
+                href="https://www.instagram.com/sanidhytomar_47/"
+              ></a>
+              <a target="_blank"
+                href="https://www.linkedin.com/in/sanidhya-tomar-1b3ab8225"
+                class="fa fa-linkedin"
+                aria-hidden="true"
+              ></a>
             </div>
           </div>
         </div>
@@ -48,8 +80,16 @@ function TeamCard(props) {
           <div class="border">
             <h2 className="names">SANJAY</h2>
             <div class="icons">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <a target="_blank"
+                class="fa fa-instagram"
+                aria-hidden="true"
+                href="https://www.instagram.com/smartclicker_sanjay/"
+              ></a>
+              <a target="_blank"
+                href="https://www.linkedin.com/in/sanjay-patel-392b9822a"
+                class="fa fa-linkedin"
+                aria-hidden="true"
+              ></a>
             </div>
           </div>
         </div>

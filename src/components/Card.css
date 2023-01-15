@@ -125,6 +125,8 @@
   opacity: 0;
   transition: opacity 1s;
   background-image: none !important;
+  text-decoration: none;
+  color: white;
 }
 .icons{
   background-image: none !important;
