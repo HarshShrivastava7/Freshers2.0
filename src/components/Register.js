@@ -331,13 +331,7 @@ import anime from "animejs/lib/anime.es.js";
                       <a class="nav__link" style={{ fontSize: "1.4em" }}>
                         {" "}
                         Registration for girls are compulsory{" "}
-                        <i>
-                          ( ok just kidding but jab phool aayengi tabhi to{" "}
-                          <span style={{ textDecoration: "line-through" }}>
-                            bhadwe
-                          </span>{" "}
-                          bhawre aayenge peeche peeche )
-                        </i>
+                        <i>( kyuki ratio bhi to maintain krna hai 😇 )</i>
                       </a>
                     </li>
                     <li class="nav__item">
