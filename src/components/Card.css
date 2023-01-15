@@ -102,13 +102,27 @@
 }
 
 .card4:hover{
-    background: url('./Sanjay2.jpg') left center no-repeat;
-    background-size: 350px;
+  background: url('./Sanjay2.jpg') left center no-repeat;
+  background-size: 350px;
 }
 .card4:hover .names{
-      /* opacity: 1; */
+  /* opacity: 1; */
 }
 .card4:hover .fa{
+  opacity: 1;
+}
+.card5{
+  background: url('./Mohit2.jpg') center center no-repeat;
+  background-size: 400px;
+}
+.card5:hover{
+    background: url('./Mohit2.jpg') left center no-repeat;
+    background-size: 430px;
+}
+.card5:hover .names{
+      /* opacity: 1; */
+}
+.card5:hover .fa{
       opacity: 1;
 }
 .names{
