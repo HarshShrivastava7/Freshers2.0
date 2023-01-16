@@ -307,7 +307,7 @@ import anime from "animejs/lib/anime.es.js";
                       <a class="nav__link" style={{ fontSize: "1.4em" }}>
                         Registrations are open till{" "}
                         <span style={{ textDecoration: "underline" }}>
-                          25-Jan
+                          19-Jan
                         </span>{" "}
                         and uske baad koi bhi RR entertain nahi kiya jaega 🙃{" "}
                         <i>( Tickets are limited so jaldi jaldi Tut pado )</i>
